@@ -319,6 +319,15 @@ streamlit run customer_feedback_dashboard.py
 ```
 
 ---
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://codtech-project-3-customer-feedback-sentiment-analysis-2lr2uz7.streamlit.app/)
+
+---
+
+# 🌐 LIVE APPLICATION
+
+🚀 **Try the deployed Customer Feedback Sentiment Analysis Dashboard**
+
+### 🔗 [Customer Feedback Sentiment Analysis Dashboard](https://codtech-project-3-customer-feedback-sentiment-analysis-2lr2uz7.streamlit.app/
 
 
 
